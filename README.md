@@ -16,5 +16,6 @@ https://basemalrifai.github.io/Video-Game-Sales/
 - Analyze the effect developer has on sales. Does developer reputation matter? Ex. Bethesda Games Studio faced a lot of backlash with Fallout 76, but does that affect sales of new releases like Starfield? 
 
 ## Acknowledgement
+School: University of Maryland, College Park
 Course: CMSC320 Data Science  
 Professor: Jose Calderon  
